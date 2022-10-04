@@ -4,7 +4,7 @@ SUBDIR = {
     "Documents" : [".pdf" , ".doc", ".text", ".txt", ".docx"],
     "Images" : [".jpg", ".jpeg", ".png"],
     "Audio" : [".mp3", ".flac"],
-    "Video" : ["mp4", ".mkv", "avi."] 
+    "Video" : ["mp4", ".mkv", ".avi"] 
 }
 
 def selectDir(value):
